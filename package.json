@@ -1,0 +1,20 @@
+{
+  "name": "dodao-academy",
+  "version": "1.0.0",
+  "description": "Guides explaining balancer Protocol",
+  "scripts": {
+    "test": "dodao-academy-processor gen-all src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoDAO-io/dodao-academy.git"
+  },
+  "author": "robin",
+  "bugs": {
+    "url": "https://github.com/DoDAO-io/dodao-academy/issues"
+  },
+  "homepage": "https://github.com/DoDAO-io/dodao-academy#readme",
+  "dependencies": {
+    "dodao-academy-processor": "0.0.4"
+  }
+}
