@@ -39,6 +39,6 @@ events:
 admins:
   - admin1
 tags:
-  - admin1
+  - tag1
 priority: 60
 created: '2022-11-15T20:00:13.043Z'
