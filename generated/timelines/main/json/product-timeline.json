@@ -15,35 +15,40 @@
       "uuid": "event-1",
       "date": "2022-11-15T20:00:13.043Z",
       "excerpt": "Excerpt",
-      "content": "Some more details"
+      "content": "Some more details",
+      "moreLink": null
     },
     {
       "name": "Some Event 2",
       "uuid": "event-2",
       "date": "2022-10-15T20:00:13.043Z",
       "excerpt": "Excerpt",
-      "content": "Some more details"
+      "content": "Some more details",
+      "moreLink": null
     },
     {
       "name": "Some Event 3",
       "uuid": "event-3",
       "date": "2022-09-15T20:00:13.043Z",
       "excerpt": "Excerpt",
-      "content": "Some more details"
+      "content": "Some more details",
+      "moreLink": null
     },
     {
       "name": "Some Event 4",
       "uuid": "event-4",
       "date": "2022-08-15T20:00:13.043Z",
       "excerpt": "Excerpt",
-      "content": "Some more details"
+      "content": "Some more details",
+      "moreLink": null
     },
     {
       "name": "Some Event 5",
       "uuid": "event-5",
       "date": "2022-07-15T20:00:13.043Z",
       "excerpt": "Excerpt",
-      "content": "Some more details"
+      "content": "Some more details",
+      "moreLink": null
     }
   ]
 }
