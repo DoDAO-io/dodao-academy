@@ -15,6 +15,6 @@
   },
   "homepage": "https://github.com/DoDAO-io/dodao-academy#readme",
   "dependencies": {
-    "dodao-academy-processor": "0.0.7"
+    "dodao-academy-processor": "0.0.8"
   }
 }
