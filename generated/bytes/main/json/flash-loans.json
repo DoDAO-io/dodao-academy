@@ -6,23 +6,47 @@
     {
       "content": "Step 1 Content",
       "name": "Step 1",
-      "order": 0,
       "stepItems": [],
       "uuid": "c745cfaa-b68e-42ed-a44f-8c55ea6bc2a9"
     },
     {
       "content": "Step 2 Content",
       "name": "Step 2",
-      "order": 1,
       "stepItems": [],
       "uuid": "606c3f20-93f6-47a0-b7bb-aa509d798b24"
     },
     {
       "content": "Step 3 Content",
       "name": "Step 3",
-      "order": 2,
       "stepItems": [],
       "uuid": "cc004d15-b270-45ec-aa8a-73bec534281a"
+    },
+    {
+      "content": "",
+      "name": "Step 4",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "b76dfca7-1e44-49d2-9451-7d132a36443e",
+          "answerKeys": [
+            "44b07c57"
+          ],
+          "choices": [
+            {
+              "content": "c1",
+              "key": "44b07c57",
+              "order": 0
+            },
+            {
+              "content": "c2",
+              "key": "10cb8ec4",
+              "order": 1
+            }
+          ],
+          "content": "Question"
+        }
+      ],
+      "uuid": "45ec32f3-6270-455a-997f-e05e275b4676"
     }
   ],
   "publishStatus": "Live",
