@@ -2,7 +2,12 @@ content: Loans without any collateral
 id: flash-loans
 name: Flash Loans
 steps:
-  - content: ''
+  - content: |-
+      add
+
+      asd
+
+      asddddd
     name: Step 1
     stepItems: []
     uuid: c745cfaa-b68e-42ed-a44f-8c55ea6bc2a9
@@ -28,6 +33,9 @@ steps:
           - content: c2
             key: 10cb8ec4
             order: 1
+          - content: d3
+            key: f408117c
+            order: 2
         content: Question
     uuid: 45ec32f3-6270-455a-997f-e05e275b4676
 publishStatus: Live
