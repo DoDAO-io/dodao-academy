@@ -48,7 +48,8 @@
               "order": 2
             }
           ],
-          "content": "Question"
+          "content": "Question",
+          "explanation": "Some Explanation"
         }
       ],
       "uuid": "45ec32f3-6270-455a-997f-e05e275b4676"
