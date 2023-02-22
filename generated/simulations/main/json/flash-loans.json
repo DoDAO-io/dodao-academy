@@ -17,7 +17,8 @@
     {
       "uuid": "606c3f20-93f6-47a0-b7bb-aa509d798b24",
       "name": "Step 2",
-      "iframeUrl": "https://dodao.academy/"
+      "iframeUrl": "https://dodao.academy/",
+      "content": "Step 2 content" 
     },
     {
       "uuid": "cc004d15-b270-45ec-aa8a-73bec534281a",
