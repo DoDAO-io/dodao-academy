@@ -22,7 +22,13 @@
     {
       "content": "Step 4",
       "name": "Step 4",
-      "uuid": "260d78b6-0cb7-48bd-b1b2-c0afa139f2dc"
+      "uuid": "260d78b6-0cb7-48bd-b1b2-c0afa139f2dc",
+      "iframeUrl": "https://www.google.com/"
+    },
+    {
+      "content": "Step 5",
+      "name": "Step 5",
+      "uuid": "c3e89026-5c61-4440-bcc4-2073cecdd317"
     }
   ],
   "publishStatus": "Live",
