@@ -8,8 +8,7 @@ steps:
   - content: Step 2 content
     name: Step 2
     uuid: 606c3f20-93f6-47a0-b7bb-aa509d798b24
-    iframeUrl: >-
-      https://support.reap.global/en/articles/5869416-how-to-connect-reap-card-and-xero
+    iframeUrl: https://capture.navattic.com/cld08f1i7004y08i323oj27pz
   - content: Step 3 Content
     name: Step 3
     uuid: cc004d15-b270-45ec-aa8a-73bec534281a
