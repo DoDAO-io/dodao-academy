@@ -9,7 +9,7 @@
     {
       "name": "Uniswap BNB Deployment",
       "uuid": "event-1",
-      "date": "2022-11-15T20:00:13.043Z",
+      "date": "2023-01-30T18:30:00.000Z",
       "excerpt": "Excerpt",
       "content": "Uniswap, the leading decentralized crypto exchange, will deploy to Binance's BNB blockchain using the Wormhole bridge after receiving 66% of votes in favor from Uniswap DAO members. The decision followed a political battle that saw the project's biggest investor, Andreesen Horowitz (a16z), lose out after advocating for its portfolio company, LayerZero, to be used as the cross-chain bridge. A16z raised security concerns about Wormhole in a community forum post but failed to block the vote, which has raised questions about the venture firm's influence within Uniswap's governance system.",
       "moreLink": "https://www.coindesk.com/tech/2023/02/10/uniswap-vote-on-bnb-deployment-ends-with-silicon-valleys-a16z-on-losing-side/"
@@ -25,7 +25,7 @@
     {
       "name": "Balancer deployment on Avalanche",
       "uuid": "event-3",
-      "date": "2023-03-02T18:30:00.000Z",
+      "date": "2023-03-06T18:30:00.000Z",
       "excerpt": "Excerpt",
       "content": "Balancer, a decentralized exchange protocol, is considering expanding to Avalanche due to complete projects that make it easier for the UI to support new chains and generalized boosted pool support. Avalanche has a growing market for liquid-staked AVAX and is a vital partner in Aave for boosted pools, making it an attractive option for Balancer's composable liquidity products. The expansion aligns with Balancer's strategy to grow its position on networks beyond Ethereum through BIP-19 and major growth catalysts like Aave v3 boosted pools.",
       "moreLink": "https://forum.balancer.fi/t/bip-206-deploy-balancer-to-avalanche/4449"

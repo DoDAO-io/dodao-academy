@@ -7,7 +7,7 @@ publishStatus: Live
 events:
   - name: Uniswap BNB Deployment
     uuid: event-1
-    date: '2022-11-15T20:00:13.043Z'
+    date: '2023-01-30T18:30:00.000Z'
     excerpt: Excerpt
     content: >-
       Uniswap, the leading decentralized crypto exchange, will deploy to
@@ -37,7 +37,7 @@ events:
       https://medium.loopring.io/loopring-and-protocol-gemini-partner-to-build-the-future-of-gaming-a0e4c06ccf26
   - name: Balancer deployment on Avalanche
     uuid: event-3
-    date: '2023-03-02T18:30:00.000Z'
+    date: '2023-03-06T18:30:00.000Z'
     excerpt: Excerpt
     content: >-
       Balancer, a decentralized exchange protocol, is considering expanding to
