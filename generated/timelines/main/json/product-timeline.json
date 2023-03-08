@@ -9,7 +9,7 @@
     {
       "name": "Uniswap BNB Deployment",
       "uuid": "event-1",
-      "date": "2023-01-30T18:30:00.000Z",
+      "date": "2023-02-09T18:30:00.000Z",
       "excerpt": "Excerpt",
       "content": "Uniswap, the leading decentralized crypto exchange, will deploy to Binance's BNB blockchain using the Wormhole bridge after receiving 66% of votes in favor from Uniswap DAO members. The decision followed a political battle that saw the project's biggest investor, Andreesen Horowitz (a16z), lose out after advocating for its portfolio company, LayerZero, to be used as the cross-chain bridge. A16z raised security concerns about Wormhole in a community forum post but failed to block the vote, which has raised questions about the venture firm's influence within Uniswap's governance system.",
       "moreLink": "https://www.coindesk.com/tech/2023/02/10/uniswap-vote-on-bnb-deployment-ends-with-silicon-valleys-a16z-on-losing-side/"

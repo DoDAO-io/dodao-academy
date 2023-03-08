@@ -7,7 +7,7 @@ publishStatus: Live
 events:
   - name: Uniswap BNB Deployment
     uuid: event-1
-    date: '2023-01-30T18:30:00.000Z'
+    date: '2023-02-09T18:30:00.000Z'
     excerpt: Excerpt
     content: >-
       Uniswap, the leading decentralized crypto exchange, will deploy to
