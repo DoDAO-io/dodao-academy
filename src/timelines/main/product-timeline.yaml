@@ -35,12 +35,20 @@ events:
       Ethereum-level security, making it a perfect fit for gaming.
     moreLink: >-
       https://medium.loopring.io/loopring-and-protocol-gemini-partner-to-build-the-future-of-gaming-a0e4c06ccf26
-  - name: Some Event 3
+  - name: Balancer deployment on Avalanche
     uuid: event-3
-    date: '2022-09-15T20:00:13.043Z'
+    date: '2023-03-02T18:30:00.000Z'
     excerpt: Excerpt
-    content: Some more details
-    moreLink: null
+    content: >-
+      Balancer, a decentralized exchange protocol, is considering expanding to
+      Avalanche due to complete projects that make it easier for the UI to
+      support new chains and generalized boosted pool support. Avalanche has a
+      growing market for liquid-staked AVAX and is a vital partner in Aave for
+      boosted pools, making it an attractive option for Balancer's composable
+      liquidity products. The expansion aligns with Balancer's strategy to grow
+      its position on networks beyond Ethereum through BIP-19 and major growth
+      catalysts like Aave v3 boosted pools.
+    moreLink: https://forum.balancer.fi/t/bip-206-deploy-balancer-to-avalanche/4449
   - name: Some Event 4
     uuid: event-4
     date: '2022-08-15T20:00:13.043Z'
