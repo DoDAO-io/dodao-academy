@@ -31,12 +31,12 @@
       "moreLink": "https://forum.balancer.fi/t/bip-206-deploy-balancer-to-avalanche/4449"
     },
     {
-      "name": "Some Event 4",
+      "name": " Sushi Tokenomics Redesign",
       "uuid": "event-4",
-      "date": "2022-08-15T20:00:13.043Z",
+      "date": "2022-12-29T18:30:00.000Z",
       "excerpt": "Excerpt",
-      "content": "Some more details",
-      "moreLink": "http://dodao-localhost.academy:3000/timelines/timeline/edit/product-timeline"
+      "content": "Sushi proposes a new token model to incentivize liquidity, promote decentralization, and provide more equitable governance and sustainable economics. Liquidity providers receive a fee share, while xSushi receives emissions-based rewards in time-locked tiers. Burns are used to buy back and permanently remove Sushi from circulation, and a portion of the swap fee is used to lock liquidity for price support. The proposed token model aims to balance supply and demand while promoting maximum value for stakeholders.",
+      "moreLink": "https://forum.sushi.com/t/sushi-tokenomics-redesign/11621"
     },
     {
       "name": "Some Event 5",
