@@ -21,12 +21,20 @@ events:
       system.
     moreLink: >-
       https://www.coindesk.com/tech/2023/02/10/uniswap-vote-on-bnb-deployment-ends-with-silicon-valleys-a16z-on-losing-side/
-  - name: Some Event 2
+  - name: Loopring partner Protocol:Gemini
     uuid: event-2
-    date: '2022-10-15T20:00:13.043Z'
+    date: '2023-01-23T18:30:00.000Z'
     excerpt: Excerpt
-    content: Some more details
-    moreLink: null
+    content: >-
+      Loopring, a secure compression machine for Ethereum, is partnering with
+      Protocol: Gemini to bring immersive Web3 games to Ethereum L2. Protocol:
+      Gemini is creating a collection of in-house developed games that blend
+      blockchain, augmented reality, and metaverses to create engaging
+      experiences. All of these upcoming projects will be built on Loopring,
+      which offers gas-free NFT minting and trading while preserving
+      Ethereum-level security, making it a perfect fit for gaming.
+    moreLink: >-
+      https://medium.loopring.io/loopring-and-protocol-gemini-partner-to-build-the-future-of-gaming-a0e4c06ccf26
   - name: Some Event 3
     uuid: event-3
     date: '2022-09-15T20:00:13.043Z'
