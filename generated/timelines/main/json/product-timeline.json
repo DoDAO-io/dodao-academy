@@ -39,12 +39,12 @@
       "moreLink": "https://forum.sushi.com/t/sushi-tokenomics-redesign/11621"
     },
     {
-      "name": "Some Event 5",
+      "name": "Change to Staking Service to CRV",
       "uuid": "event-5",
-      "date": "2022-07-15T20:00:13.043Z",
+      "date": "2023-01-03T18:30:00.000Z",
       "excerpt": "Excerpt",
-      "content": "Some more details",
-      "moreLink": null
+      "content": "Curve tokens (CRV) are issued to liquidity providers on Curve Finance and can be converted into vote-escrowed CRV (veCRV) for platform governance, higher rewards, and airdrops. Convex Finance pools user assets to purchase CRV and convert them into veCRV, maximizing rewards without locking up tokens. Updates to Convex's staking system will allow users to earn more rewards and control what rewards they receive, with fee changes redirecting rewards to incentivize staking.",
+      "moreLink": "https://www.coindesk.com/tech/2023/01/04/defi-tool-convex-to-make-changes-to-staking-service-for-curve-token-rewards/"
     }
   ],
   "admins": [
