@@ -13,22 +13,6 @@
       "name": "Step 2",
       "uuid": "606c3f20-93f6-47a0-b7bb-aa509d798b24",
       "iframeUrl": "https://dodao.navattic.com/h3az035h"
-    },
-    {
-      "content": "Step 3 Content",
-      "name": "Step 3",
-      "uuid": "cc004d15-b270-45ec-aa8a-73bec534281a"
-    },
-    {
-      "content": "Step 4",
-      "name": "Step 4",
-      "uuid": "260d78b6-0cb7-48bd-b1b2-c0afa139f2dc",
-      "iframeUrl": "https://www.google.com/"
-    },
-    {
-      "content": "Step 5",
-      "name": "Step 5",
-      "uuid": "c3e89026-5c61-4440-bcc4-2073cecdd317"
     }
   ],
   "publishStatus": "Live",
