@@ -3,9 +3,9 @@ id: flash-loans
 name: Flash Loans
 steps:
   - content: |-
-      ## [x] This demo you will learn 1
-      ## [x] This demo you will learn 2
-      ## [x] This demo you will learn 3
+      ## ✅ This demo you will learn 1
+      ## ✅ This demo you will learn 2
+      ## ✅ This demo you will learn 3
     name: Step 1
     uuid: c745cfaa-b68e-42ed-a44f-8c55ea6bc2a9
   - content: Step 2 content
