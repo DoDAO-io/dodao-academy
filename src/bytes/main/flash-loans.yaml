@@ -2,12 +2,7 @@ content: Loans without any collateral
 id: flash-loans
 name: Flash Loans
 steps:
-  - content: |-
-      add
-
-      asd
-
-      asddddd
+  - content: '## Coming Soon'
     name: Step 1
     stepItems: []
     uuid: c745cfaa-b68e-42ed-a44f-8c55ea6bc2a9
