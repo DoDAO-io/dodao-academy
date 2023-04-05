@@ -3,13 +3,13 @@
     "engineering"
   ],
   "content": "What are Composable Stable Pool and why do we need them?",
-  "created": "2023-01-02T19:24:09.209Z",
+  "created": "2023-04-05T20:22:18.741Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
   "guideType": "onboarding",
   "key": "composable-stable-pools-balancer",
-  "name": "Composable Stable Pools",
+  "name": "Composable Academy",
   "publishStatus": "Live",
   "showIncorrectOnCompletion": true,
   "steps": [
