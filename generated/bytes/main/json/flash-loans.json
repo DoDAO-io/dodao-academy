@@ -53,6 +53,43 @@
         }
       ],
       "uuid": "45ec32f3-6270-455a-997f-e05e275b4676"
+    },
+    {
+      "content": "",
+      "name": "Step 5",
+      "stepItems": [
+        {
+          "type": "PublicShortInput",
+          "uuid": "de1eece2-b0a1-404e-8526-5461612cab76",
+          "label": "Label1",
+          "required": true
+        }
+      ],
+      "uuid": "7d53a094-9617-4e95-96e9-240f5f99f313"
+    },
+    {
+      "content": "",
+      "name": "Step 6",
+      "stepItems": [
+        {
+          "type": "PublicShortInput",
+          "uuid": "cb89edaf-3361-4c10-a42f-956eeb315651",
+          "label": "Label2",
+          "required": false
+        }
+      ],
+      "uuid": "a6be1560-936b-4897-a463-52ba032d30e2"
+    },
+    {
+      "content": "",
+      "name": "Step 7",
+      "stepItems": [
+        {
+          "type": "UserDiscordConnect",
+          "uuid": "8a7dad93-9577-4056-bd60-f3d484799385"
+        }
+      ],
+      "uuid": "bc72ce1d-c8b0-48db-b089-123251a83eac"
     }
   ],
   "publishStatus": "Live",
