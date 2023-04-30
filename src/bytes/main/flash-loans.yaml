@@ -39,7 +39,7 @@ steps:
     stepItems:
       - type: PublicShortInput
         uuid: de1eece2-b0a1-404e-8526-5461612cab76
-        label: Label1
+        label: asd
         required: true
     uuid: 7d53a094-9617-4e95-96e9-240f5f99f313
   - content: ''
