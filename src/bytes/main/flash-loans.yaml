@@ -6,7 +6,7 @@ steps:
     name: Step 1
     stepItems: []
     uuid: c745cfaa-b68e-42ed-a44f-8c55ea6bc2a9
-  - content: Step 2 Content
+  - content: ''
     name: Step 2
     stepItems: []
     uuid: 606c3f20-93f6-47a0-b7bb-aa509d798b24
