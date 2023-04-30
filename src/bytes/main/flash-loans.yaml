@@ -50,11 +50,9 @@ steps:
         label: Label2
         required: false
     uuid: a6be1560-936b-4897-a463-52ba032d30e2
-  - content: ''
+  - content: Last Step
     name: Step 7
-    stepItems:
-      - type: UserDiscordConnect
-        uuid: 8a7dad93-9577-4056-bd60-f3d484799385
+    stepItems: []
     uuid: bc72ce1d-c8b0-48db-b089-123251a83eac
 publishStatus: Live
 admins: []
