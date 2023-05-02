@@ -1,2 +1,8 @@
 bytes:
-  - flash-loans.yaml
+  - centralized-vs-decentralized-exchanges.yaml
+  - amm-benefits-uniswap.yaml
+  - concentrated-liquidity.yaml
+  - capital-efficiency-in-uniswap-v3.yaml
+  - real-and-virtual-reserves.yaml
+  - impermanent-loss-uniswap.yaml
+  - ticks-and-ranges.yaml

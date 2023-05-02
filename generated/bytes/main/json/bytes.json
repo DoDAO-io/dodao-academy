@@ -1,3 +1,9 @@
 [
-  "flash-loans.json"
+  "centralized-vs-decentralized-exchanges.json",
+  "amm-benefits-uniswap.json",
+  "concentrated-liquidity.json",
+  "capital-efficiency-in-uniswap-v3.json",
+  "real-and-virtual-reserves.json",
+  "impermanent-loss-uniswap.json",
+  "ticks-and-ranges.json"
 ]

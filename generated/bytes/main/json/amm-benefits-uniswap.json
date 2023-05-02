@@ -1,0 +1,48 @@
+{
+  "content": "Benefits of Automated Market Maker over Order Book",
+  "id": "amm-benefits-uniswap",
+  "name": "AMM Benefits",
+  "steps": [
+    {
+      "content": "\nAutomated Market Makers (AMMs) and Order Books are two different types of systems for executing trades. An Automated Market Maker (AMM) is a type of decentralized exchange (DEX) protocol that allows traders to trade cryptocurrencies and other digital assets without an order book or an intermediary.\n\nAMMs offer many benefits over order books.",
+      "name": "Introduction",
+      "stepItems": [],
+      "uuid": "7f31e672-0c52-4d89-9d40-9f348c5f5e5b"
+    },
+    {
+      "content": "AMMs provide liquidity to traders with always available prices, while order books require both buyer and seller to agree on a price leading to low liquidity for some assets.",
+      "name": "Introduction Evaluation",
+      "stepItems": [],
+      "uuid": "e0b6f53b-3dc4-4e4c-af25-90f4cd7d9d9a"
+    },
+    {
+      "content": "AMMs do not need order matching, using a mathematical formula for price discovery based on the asset ratio in the pool.\n",
+      "name": "Step 3",
+      "stepItems": [],
+      "uuid": "7d56df42-bafc-4dcb-9e9b-6b3811f32e3c"
+    },
+    {
+      "content": "Because AMMs utilize smart contracts and mathematical formulas, traders can exchange assets around the clock, while traditional trading is restricted to operating hours.",
+      "name": "Step 4",
+      "stepItems": [],
+      "uuid": "5b52f5f5-5d5d-4325-8c43-882106b69838"
+    },
+    {
+      "content": "AMMs have reduced risks of price manipulation compared to order books that are susceptible to it.",
+      "name": "Step 5",
+      "stepItems": [],
+      "uuid": "9f2b07f1-964d-4b10-ae5e-97d53b29b95a"
+    },
+    {
+      "content": "Additionally, AMMs have lower barriers to entry, allowing traders to add liquidity to the pool and earn fees instead of requiring significant capital to participate in the market.",
+      "name": "Step 6",
+      "stepItems": [],
+      "uuid": "c6a3b2f2-1e9c-4a8b-bcf6-01896c28f0de"
+    }
+  ],
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "created": "2023-04-13T18:58:14.031Z"
+}

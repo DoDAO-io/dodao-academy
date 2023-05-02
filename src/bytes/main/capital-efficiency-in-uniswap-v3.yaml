@@ -1,0 +1,39 @@
+content: Capital Efficiency in Uniswap V3 Explained
+id: capital-efficiency-uniswap-v3
+name: Capital Efficiency in V3
+steps:
+  - content: >-
+      Uniswap V3 achieves capital efficiency by letting liquidity providers concentrate their liquidity within specific price ranges, leading to better returns and risk management.
+    name: Capital Efficiency Introduction
+    stepItems: []
+    uuid: 5e98e9a9-ff0a-4e93-93a5-5ca5b5c8d37b
+  - content: >-
+      In Uniswap V2, liquidity was distributed uniformly across the entire price range, causing inefficiencies in capital allocation.
+    name: Uniswap V2 Inefficiencies
+    stepItems: []
+    uuid: 2a432f57-4ad4-4d4c-9b3a-e74a9c1a155d
+  - content: >-
+      With Uniswap V3, liquidity providers can choose specific price ranges, making better use of their capital and earning higher fees from trades within those ranges.
+    name: Custom Price Ranges
+    stepItems: []
+    uuid: 7b9f6ed0-7c77-47f8-8c5e-13a2b7d2b1e8
+  - content: >-
+      For example, if a provider believes a token will trade between $2000 and $2200, they can focus their liquidity there, increasing returns and capital utilization.
+    name: Example Scenario
+    stepItems: []
+    uuid: 4f4d3b3a-91c9-4d3b-bf3f-50e15e187f25
+  - content: >-
+      Concentrated liquidity allows providers to manage risk and exposure by choosing price ranges based on their market outlook and risk appetite.
+    name: Managing Risk and Exposure
+    stepItems: []
+    uuid: 10f4e9d9-4e29-4d5c-8e6c-5c284eba1fca
+  - content: >-
+      Uniswap V3's concentrated liquidity leads to improved capital efficiency, higher returns, and better control over risks for liquidity providers.
+    name: Summary
+    stepItems: []
+    uuid: 18e6dfc1-254d-45c7-97a3-c2600e8b3d1c
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+created: '2023-04-23T18:58:14.031Z'

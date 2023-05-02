@@ -1,0 +1,48 @@
+{
+  "content": "Understanding Concentrated Liquidity in Uniswap V3",
+  "id": "concentrated-liquidity-uniswap-v3",
+  "name": "Concentrated Liquidity in V3",
+  "steps": [
+    {
+      "content": "Uniswap V3 introduced concentrated liquidity, an innovation that allows liquidity providers to focus their capital within specific price ranges for higher efficiency.",
+      "name": "Concentrated Liquidity Introduction",
+      "stepItems": [],
+      "uuid": "1a52b331-9c88-4e34-86f0-ef26485a178b"
+    },
+    {
+      "content": "Traditional exchanges use order books, while Uniswap and other decentralized exchanges use Automated Market Makers (AMMs) and liquidity pools for trades.",
+      "name": "AMMs and Liquidity Pools",
+      "stepItems": [],
+      "uuid": "7f3e32d3-3e95-4d25-9a34-0a9c9d8f57a3"
+    },
+    {
+      "content": "In Uniswap V2, liquidity providers had to deposit equal values of both tokens, and liquidity was distributed uniformly across the entire price range.",
+      "name": "Uniswap V2 Liquidity Distribution",
+      "stepItems": [],
+      "uuid": "8d5dcba2-0eef-4bfa-87b0-10802c7f7910"
+    },
+    {
+      "content": "Concentrated liquidity allows providers to specify custom price ranges for liquidity, making better use of their capital and potentially earning higher fees.",
+      "name": "Benefits of Concentrated Liquidity",
+      "stepItems": [],
+      "uuid": "6a0dcd3f-2dbb-43f8-a34e-d9a02d40e331"
+    },
+    {
+      "content": "Liquidity providers can customize exposure based on their risk appetite and market outlook, and potentially reduce impermanent loss.",
+      "name": "Managing Risk and Exposure",
+      "stepItems": [],
+      "uuid": "f6f49d6a-7e25-4a98-9146-8e6e98c6c13f"
+    },
+    {
+      "content": "Concentrated liquidity introduces new complexities, such as actively managing positions and monitoring price ranges.",
+      "name": "Challenges and Complexities",
+      "stepItems": [],
+      "uuid": "4f1c4e94-cf7d-4f4c-a7e9-9a731e7d8d00"
+    }
+  ],
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "created": "2023-04-23T18:58:14.031Z"
+}

@@ -1,0 +1,39 @@
+content: Understanding Ticks in Uniswap V3
+id: ticks-uniswap-v3
+name: Ticks in Uniswap V3
+steps:
+  - content: >-
+      🦄 Uniswap V3 introduces "ticks" for concentrated liquidity, allowing LPs to provide liquidity in specific price ranges. More efficient than V2!
+    name: Introduction
+    stepItems: []
+    uuid: e4f31e1c-9b46-4f89-9d40-9f348c5f5e5b
+  - content: >-
+      📈 Ticks represent discrete points on the price curve, with each tick corresponding to a specific price ratio between the two tokens in a pair.
+    name: Tick Definition
+    stepItems: []
+    uuid: 07d3f53b-3dc4-4e4c-af25-90f4cd7d9d9a
+  - content: >-
+      🎯 LPs can set their positions' range boundaries by choosing ticks for their desired minimum and maximum prices.
+    name: Range-based Liquidity
+    stepItems: []
+    uuid: 4ab6df42-bafc-4dcb-9e9b-6b3811f32e3c
+  - content: >-
+      📊 Ticks help track the net position of all LPs to calculate the total liquidity available at any given price.
+    name: Net Position Tracking
+    stepItems: []
+    uuid: 8c56e67c-77df-45fd-a95b-91f32f32e3c3
+  - content: >-
+      💡 Ticks are crucial for determining trade slippage and the overall functioning of the Uniswap V3 protocol.
+    name: Ticks Importance
+    stepItems: []
+    uuid: 0d37a77c-98d4-4c56-af25-90f4cd7d9d9a
+  - content: >-
+      🧑‍🎓 Example: In an ETH/USDC pool, an LP can provide liquidity between $2,500 and $3,500 per ETH by selecting corresponding tick indices.
+    name: Practical Example
+    stepItems: []
+    uuid: 3e27b84c-5c32-4d56-af25-90f4cd7d9d9b
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+created: '2023-04-23T18:58:14.031Z'

@@ -1,0 +1,48 @@
+{
+  "content": "Real and Virtual Reserves in Uniswap V3",
+  "id": "real-virtual-reserves-uniswap",
+  "name": "Real and Virtual Reserves",
+  "steps": [
+    {
+      "content": "In Uniswap V3, real and virtual reserves manage liquidity. Real reserves are actual token amounts in a pool, while virtual reserves represent active liquidity within a specific price range.\n",
+      "name": "Introduction",
+      "stepItems": [],
+      "uuid": "1238c90e-7a0c-4c3f-a49a-836c9a2e4d4c"
+    },
+    {
+      "content": "Real reserves are affected by liquidity providers (LPs) adding or removing liquidity, and they are used to calculate the exchange rate between the two tokens in a pool.\n",
+      "name": "Real Reserves",
+      "stepItems": [],
+      "uuid": "9e9bda21-71e3-42b3-97a1-2ef1f49f7d33"
+    },
+    {
+      "content": "Virtual reserves determine the available liquidity for trading within a price range, helping to calculate the effective exchange rate and slippage for trades within that range.\n",
+      "name": "Virtual Reserves",
+      "stepItems": [],
+      "uuid": "6a34b6fd-f7d2-4b60-9a52-4e4d4b2e3838"
+    },
+    {
+      "content": "Example: A liquidity provider (LP) adds 10 ETH and 20,000 USDC within the price range of 1,800 USDC/ETH to 2,200 USDC/ETH. These amounts become the virtual reserves for trades within that range.\n",
+      "name": "Example - Virtual Reserves",
+      "stepItems": [],
+      "uuid": "0d9dd8c9-bb28-4c54-8b30-d0b8d19f16a9"
+    },
+    {
+      "content": "When a user wants to swap tokens within the specified price range, virtual reserves are used to determine the exchange rate and potential slippage for their trade.\n",
+      "name": "Virtual Reserves in Action",
+      "stepItems": [],
+      "uuid": "8e40b601-64fd-4a25-99b1-8428d9adab4e"
+    },
+    {
+      "content": "Trades outside of the specified price range won't have access to the virtual reserves and may experience higher slippage or fail due to lack of liquidity.\n",
+      "name": "Impact on Trades Outside the Range",
+      "stepItems": [],
+      "uuid": "3d9329c9-9f11-4f17-8daa-1f99284a6a27"
+    }
+  ],
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "created": "2023-04-23T18:58:14.031Z"
+}

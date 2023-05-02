@@ -1,0 +1,50 @@
+content: Explains what is Impermanent Loss
+id: impermanent-loss-uniswap
+name: Impermanent Loss
+steps:
+  - content: >-
+      Impermanent loss is a term used in decentralized exchanges (DEXs) that
+      refers to the temporary loss of value that liquidity providers experience
+      when they provide liquidity to a trading pair.
+    name: Introduction
+    stepItems: []
+    uuid: e2632f62-dbea-4795-aa55-6b66ad375bbe
+  - content: >+
+      In a DEX, liquidity providers deposit an assets, such as ETH and USDC,
+      into a liquidity pool. Traders can then buy or sell these assets at the
+      market price, which is determined by the balance of assets in the pool.
+
+    name: Introduction Evaluation
+    stepItems: []
+    uuid: a72699b2-35b5-4653-8bcd-e0e6ad5153c7
+  - content: >+
+      However, if the price of one asset in the pool changes relative to the
+      other, the liquidity provider's shares in the pool may become imbalanced,
+      resulting in a loss of value. This is because the liquidity provider's
+      share of the pool will now be worth less than what they initially
+      deposited.
+
+    name: Step 3
+    stepItems: []
+    uuid: 861a6c88-3c54-43c8-a85c-bd9a5d6f4fe7
+  - content: >-
+      This temporary loss of value is called an impermanent loss because it
+      disappears when the pool is rebalanced or when the liquidity provider
+      removes their liquidity from the pool. However, if the price of the assets
+      continues to move against the liquidity provider's position, the
+      impermanent loss can become permanent.
+    name: Step 4
+    stepItems: []
+    uuid: 1e638c02-f70a-40d2-bfb3-1c113b7e2675
+  - content: >-
+      It's important to note that impermanent loss affects liquidity providers,
+      but not traders who buy or sell assets in the pool.
+    name: Step 5
+    stepItems: []
+    uuid: 59642a49-059d-4ff0-8b30-82966e18cc5e
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+created: '2023-04-11T12:59:17.521Z'
+thumbnail: ''

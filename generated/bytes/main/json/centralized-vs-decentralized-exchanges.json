@@ -1,0 +1,48 @@
+{
+  "content": "Centralized vs Decentralized Exchanges and AMMs",
+  "id": "centralized-vs-decentralized-exchanges-amms",
+  "name": "Centralized vs Decentralized Exchange",
+  "steps": [
+    {
+      "content": "Centralized exchanges have an order book storing all sell and buy orders, while decentralized exchanges (DEX) like Uniswap use Automated Market Makers (AMM) for a permissionless trading experience.\n",
+      "name": "Centralized vs Decentralized Exchanges",
+      "stepItems": [],
+      "uuid": "a6ac9e9a-3b2c-4767-9e87-3ef7af92b1ce"
+    },
+    {
+      "content": "Liquidity is essential for trading. On centralized exchanges, liquidity is accumulated in the order book, while on DEXs, it's provided by liquidity providers in a decentralized way.\n",
+      "name": "Liquidity in Exchanges",
+      "stepItems": [],
+      "uuid": "3d2a58a9-27e9-4a1a-8e42-5e80c470c5e9"
+    },
+    {
+      "content": "AMMs work like market makers but in an automated, decentralized, and permissionless way. They use smart contracts to manage liquidity and execute trades.\n",
+      "name": "Automated Market Makers (AMMs)",
+      "stepItems": [],
+      "uuid": "28aef7a1-5d0b-4a6e-9a0d-6c4b4dcbf6c2"
+    },
+    {
+      "content": "In AMMs like Uniswap, each trading pair has a separate smart contract that stores both assets and is programmed to mediate trades.\n",
+      "name": "AMMs and Trading Pairs",
+      "stepItems": [],
+      "uuid": "8e8c0dc1-1295-49e9-bdd7-3d3ecf982d6b"
+    },
+    {
+      "content": "AMMs use pooling, allowing liquidity providers and traders to interact with each other through pools of liquidity. This approach is fully automated, with no managers or privileged users.\n",
+      "name": "Pooling in AMMs",
+      "stepItems": [],
+      "uuid": "959a4ab4-4a23-4ee4-8e16-eb1b6df08f9c"
+    },
+    {
+      "content": "Uniswap is an example of a decentralized exchange that implements an AMM, allowing permissionless trading and interaction between liquidity providers and traders.\n",
+      "name": "Uniswap and AMMs",
+      "stepItems": [],
+      "uuid": "3f0c42f9-9e0b-4e13-8611-6e1bb2c51f0d"
+    }
+  ],
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "created": "2023-04-23T14:45:21.637Z"
+}
