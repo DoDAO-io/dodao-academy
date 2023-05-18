@@ -1,2 +1,6 @@
 simulations:
-  - flash-loans.yaml
+  - add-liquidity-uniswap.yaml
+  - check-position-details-uniswap.yaml
+  - collect-fees-uniswap.yaml
+  - remove-liquidity-uniswap.yaml
+  - increase-liquidity-uniswap.yaml

@@ -1,0 +1,23 @@
+{
+  "content": "Walks you through the process of removing liquidity from Uniswap.",
+  "id": "remove-liquidity-uniswap",
+  "name": "Remove Liquidity",
+  "steps": [
+    {
+      "content": "\n## ✅ How to remove the liquidity \n## ✅ How to remove a certain percentage of the liquidity",
+      "name": "Introduction",
+      "uuid": "5caf4b05-10ca-424a-aae8-5d3f73546c01"
+    },
+    {
+      "content": "Demo",
+      "name": "Introduction Evaluation",
+      "uuid": "808a44d2-2cc5-4284-930c-9c53a271f462",
+      "iframeUrl": "https://dodao.navattic.com/ln1p090r"
+    }
+  ],
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "created": "2023-04-24T13:19:40.809Z"
+}

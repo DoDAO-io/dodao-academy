@@ -1,0 +1,19 @@
+content: How to check details of the newly created position
+id: check-position-details-uniswap
+name: Check Position Details
+steps:
+  - content: |-
+
+      ## ✅ How to see your position NFT 
+      ## ✅ See the ticks and fee collected
+    name: Introduction
+    uuid: 0fe43b71-42eb-4bb2-ade1-472febab93c3
+  - content: Demo
+    name: Introduction Evaluation
+    uuid: fd878513-14ae-4633-bc1e-c643b1d4eeb7
+    iframeUrl: https://dodao.navattic.com/gx3b0k51
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+created: '2023-04-24T10:50:06.725Z'

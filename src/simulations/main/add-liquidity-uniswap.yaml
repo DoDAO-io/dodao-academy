@@ -1,0 +1,21 @@
+content: How to supply liquidity in Uniswap V3
+id: add-liquidity-uniswap
+name: Add Liquidity
+steps:
+  - content: |-
+
+      ## ✅ You will learn how to connect wallet and select a chain
+      ## ✅ How to choose a pool
+      ## ✅ Select the range and amount of tokens
+      ## ✅ Create a new position
+    name: Introduction
+    uuid: eee295b1-0e09-4c03-8148-a42dc7a387dc
+  - content: Demo
+    name: Introduction Evaluation
+    uuid: d0d84d57-7c09-4a74-8123-311d7f1eb0b6
+    iframeUrl: https://dodao.navattic.com/4o270z4f
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+created: '2023-04-24T07:24:33.616Z'
